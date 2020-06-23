@@ -85,3 +85,5 @@ lint/tmp/
 # lint/reports/
 *.xml
 *.name
+tic-tac-tow-mvvm-java/
+TicTacTowMVP-java/.idea/
