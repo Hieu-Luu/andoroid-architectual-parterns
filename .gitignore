@@ -83,7 +83,7 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
-*.xml
-*.name
-tic-tac-tow-mvvm-java/
+
+tic-tac-tow-mvvm-java/.idea/
 TicTacTowMVP-java/.idea/
+
