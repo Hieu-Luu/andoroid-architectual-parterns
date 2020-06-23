@@ -83,5 +83,7 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
-TicTacTowMVP-java/
+
 tic-tac-tow-mvvm-java/.idea/
+TicTacTowMVP-java/.idea/
+
